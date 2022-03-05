@@ -1,0 +1,19 @@
+Имя: Вячеслав
+Email: slavik@gmail.com
+Логин: Slava
+Пароль: vlosg678
+
+Имя: Юрий
+Email: yura@yandex.ru
+Логин: Yrok281
+Пароль: goldyRi87
+
+Имя: Виталий
+Email: vetal@gmail.com
+Логин: Веталь
+Пароль: vitalii
+
+Имя: Виктория
+Email: vika@gmail.com
+Логин: Vika
+Пароль: Vika123
